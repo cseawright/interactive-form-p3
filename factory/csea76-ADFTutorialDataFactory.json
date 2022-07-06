@@ -1,0 +1,9 @@
+{
+	"name": "csea76-ADFTutorialDataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7fbd10b0-9ae2-44d3-8065-6bb99d31f3d3",
+		"tenantId": "367f23b3-d857-44cf-9529-a65a6901c267"
+	}
+}
